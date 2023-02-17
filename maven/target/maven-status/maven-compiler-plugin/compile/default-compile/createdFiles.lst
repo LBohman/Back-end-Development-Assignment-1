@@ -1,0 +1,16 @@
+Hero$1.class
+Hero.class
+Rogue.class
+attributeTypes.class
+Mage.class
+Item.class
+HeroAttribute.class
+Warrior.class
+itemSlot.class
+InvalidWeaponException.class
+Weapon.class
+ArmorTypes.class
+InvalidArmorException.class
+WeaponTypes.class
+Ranger.class
+Armor.class
